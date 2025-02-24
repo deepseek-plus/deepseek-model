@@ -1,10 +1,10 @@
 # 【DeepSeek官网】平替入口、下载使用~ DeepSeek平替网站、网页版 | 最新使用指南~【2025年2月更新】
 
-> 更新：2025/02/24      
+> 更新：2025/02/25      
 
-轻松使用 **[Deep Seek R1 满血版](https://chat.lify.vip)**，**快速稳定、告别服务繁忙**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
+轻松使用 **[Deep Seek R1 满血版](https://chat.yixiaai.com)**，**快速稳定、告别服务繁忙**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
 
-本指南提供全面的 **Deep Seek 使用指南**，包含 [**Deep Seek 官网入口**](https://chat.lify.vip)、[**DeepSeek 网页版**](https://chat.lify.vip)、[**Deep Seek 下载**](https://chat.lify.vip)、[**Deep Seek 平替网站**](https://chat.lify.vip)，助您顺畅使用 DeepSeek~
+本指南提供全面的 **Deep Seek 使用指南**，包含 [**Deep Seek 官网入口**](https://chat.yixiaai.com)、[**DeepSeek 网页版**](https://chat.yixiaai.com)、[**Deep Seek 下载**](https://chat.yixiaai.com)、[**Deep Seek 平替网站**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek~
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## Deep Seek 官网入口、下载使用
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lify.vip)
-* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.lify.vip) 
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.yixiaai.com)
+* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.yixiaai.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
@@ -29,7 +29,7 @@
 
 ## DeepSeek R1 满血版（官方平替）
 
-* **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.lify.vip/) - **DeepSeek官网平替网站**，支持 **DeepSeek R1满血版**、V3模型~
+* **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek官网平替网站**，支持 **DeepSeek R1满血版**、V3模型~
 * **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **DeepSeek官方平替**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
