@@ -1,6 +1,6 @@
 # 【DeepSeek官网】平替入口、下载使用~ DeepSeek平替网站、网页版 | 最新使用指南~【2025年2月更新】
 
-> 更新：2025/02/28       
+> 更新：2025/02/28        
 
 轻松使用 **[Deep Seek R1 满血版](https://chat.yixiaai.com)**，**快速稳定、告别服务繁忙**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
 
