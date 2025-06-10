@@ -1,10 +1,10 @@
 # 【DeepSeek官网】平替入口、下载使用~ DeepSeek平替网站、网页版 | 最新使用指南~【2025年6月更新】
 
-> 更新时间：2025/06/05        
+> 更新时间：2025/06/12        
 
 轻松使用 **[Deep Seek R1 满血版](https://chat.yixiaai.com)**，**快速稳定、告别服务繁忙**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**~   
 
-本指南提供全面的 **Deep Seek 使用指南**，包含 [**Deep Seek 官网入口**](https://chat.lanjing.pro)、[**DeepSeek 网页版**](https://chat.yixiaai.com)、[**Deep Seek 下载**](https://chat.lanjing.pro)、[**Deep Seek 平替网站**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek~
+本指南提供全面的 **Deep Seek 使用指南**，包含 [**Deep Seek 官网入口**](https://chat.lanjingai.org)、[**DeepSeek 网页版**](https://chat.yixiaai.com)、[**Deep Seek 下载**](https://chat.lanjingai.org)、[**Deep Seek 平替网站**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek~
 
 ---
 
@@ -30,7 +30,7 @@
 ## DeepSeek R1 满血版（官方平替）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek官网平替网站**，支持 **DeepSeek R1满血版**、V3模型~
-* **🔥蓝鲸AI：**[chat.lanjing.pro](https://chat.lanjing.pro/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
+* **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
 * **🔥一下AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **DeepSeek官方平替**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
